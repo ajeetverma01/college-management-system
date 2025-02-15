@@ -52,5 +52,5 @@ Ensure you have the following installed on your system:
 
 ## 📞 Contact
 For any queries, feel free to reach out:
-- **GitHub**: [Ajeet Verma](https://github.com/yourusername)
+- **GitHub**: [Ajeet Verma](https://github.com/ajeetverma01)
 - 📧 **Email**: av401402@gmail.com
