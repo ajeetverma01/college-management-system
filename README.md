@@ -40,7 +40,7 @@ Ensure you have the following installed on your system:
    - Locate the database connection code inside the project (`connection.java`).
    - Update the database URL, username, and password as per your MySQL setup:
    ```java
-   String url = "jdbc:mysql://localhost:3306/collegemanagementsystem";
+   String url = "jdbc:mysql://localhost:3306/collegemanagementsystem"; //You can create using yours also, but you have to change in code
    String user = "root";
    String password = "";
    ```
